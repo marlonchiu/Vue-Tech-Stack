@@ -9,5 +9,6 @@ VUE 技术栈仓库
 
 * [ustbhuangyi：VUE源码解析](https://github.com/marlonchiu/vue-analysis-ustbhuangyi)
 * [lison16：vue技术栈开发实战学习](https://github.com/marlonchiu/vue-cource-study)
+* [一个基于vue + Koa2的移动端的电商系统](https://github.com/marlonchiu/vue_shop_webapp)
 * [ustbhuangyi：Vue 2.0 高级实战-开发移动端音乐WebApp](https://github.com/marlonchiu/vue-music-app)
 * [基于Vue技术栈实现的外卖应用的商家模块的SPA](https://github.com/marlonchiu/VueEle)
